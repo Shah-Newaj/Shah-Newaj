@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shah Newaj</h1>
-<h3 align="center">Senior Software Quality Assurance & Automation Engineer | ISTQB® Certified</h3>
+<h3 align="center">Software Quality Assurance Engineer | ISTQB® Certified</h3>
 
 ---
 
@@ -20,7 +20,7 @@ I love collaborating on projects that ensure **high-quality software delivery** 
 ---
 
 ### 🌍 Currently  
-- 💼 Working at **Save the Children International (Remote)** as a **QA Automation Engineer**  
+- 💼 Working at **Save the Children International (Remote)** as a **SQA Engineer**  
 - 🧠 Focusing on advanced **Playwright + Python automation frameworks**  
 - 🤝 Open to collaborate on automation & CI/CD related projects  
 - 📫 Reach me at: **[newajuiucse@gmail.com](mailto:newajuiucse@gmail.com)**  
